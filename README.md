@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/david-v-654025330/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm David! <br/> I'm a <a href="https://www.linkedin.com/in/david-v-654025330/">Cybersecurity Professional</a></h1>
 
 <h2>Cibersecurity Projects:</h2>
 
