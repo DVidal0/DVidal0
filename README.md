@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/> I'm a <a href="https://www.linkedin.com/in/david-v-654025330/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm David! <br/> I'm a <a href="https://www.linkedin.com/in/david-v-654025330/">Cybersecurity enthusiast</a></h1>
 
 <h2>Cibersecurity Projects:</h2>
 
@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Contact me:</h2>
 
 [<img align="left" alt="DavidVidal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
