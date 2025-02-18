@@ -1,22 +1,13 @@
-<h1>Hi, I'm David! <br/> I'm a <a href="https://www.linkedin.com/in/david-v-654025330/">Cybersecurity enthusiast</a></h1>
+<h1>Hi, I'm David<br/> </h1>
+
+I'm a <a href="https://www.linkedin.com/in/david-v-654025330/">computer engineer</a> and cybersecurity enthusiast looking to make the change from investigating cybercrime for the National Police of Spain to preventing cybercrime for the private sector.
 
 <h2>Cibersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>SIEM</b>
+  - [Creating a home SOC Lab using Azure](https://github.com/DVidal0/SOC-Lab)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Soon](https://github.com/DVidal0/SOC-Lab)
 
 <h2>Contact me:</h2>
 
