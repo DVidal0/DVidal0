@@ -1,6 +1,6 @@
-<h1>Hi, I'm David<br/> </h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/david-v-654025330/">David</a><br/> </h1>
 
-I'm a <a href="https://www.linkedin.com/in/david-v-654025330/">computer engineer</a> and cybersecurity enthusiast looking to make the change from investigating cybercrime for the National Police of Spain to preventing cybercrime for the private sector.
+I'm a computer engineer and cybersecurity enthusiast looking to make the change from investigating cybercrime for the National Police of Spain to preventing cybercrime for the private sector.
 
 <h2>Cibersecurity Projects:</h2>
 
