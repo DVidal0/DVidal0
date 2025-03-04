@@ -7,7 +7,7 @@ I'm a computer engineer and cybersecurity enthusiast looking to make the change 
 - <b>SIEM</b>
   - [Creating a home SOC Lab using Azure](https://github.com/DVidal0/SOC-Lab)
 - <b>Python</b>
-  - [Soon](https://github.com/DVidal0/SOC-Lab)
+  - [Active Directory Lab (using python to create users)](https://github.com/DVidal0/Active-Directory-Lab)
 
 <h2>Contact me:</h2>
 
