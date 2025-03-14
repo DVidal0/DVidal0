@@ -16,7 +16,7 @@ I'm a computer engineer and cybersecurity enthusiast looking to make the change 
 [linkedin]: https://www.linkedin.com/in/david-v-654025330/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DVidal0/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
