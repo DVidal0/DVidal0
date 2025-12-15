@@ -1,6 +1,6 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/david-v-654025330/">David</a><br/> </h1>
 
-I'm a computer engineer and cybersecurity enthusiast looking to make the change from investigating cybercrime for the National Police of Spain to preventing cybercrime for the private sector.
+I'm a computer engineer and former cybercrime investigator for the National Police of Spain. Now working as a cyberintelligence analyst for the private sector.
 
 <h2>Cibersecurity Projects:</h2>
 
@@ -16,7 +16,7 @@ I'm a computer engineer and cybersecurity enthusiast looking to make the change 
 [linkedin]: https://www.linkedin.com/in/david-v-654025330/
 
 <!--
-**DVidal0/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DVidal0/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
