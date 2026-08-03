@@ -5,7 +5,7 @@ I'm a computer engineer with a background in security: former cybercrime investi
 <h2>Blockchain / Web3 Projects:</h2>
 
 - <b>Solidity / Foundry</b>
-  - [ERC-4626 Vault DApp](https://github.com/DVidal0/Vault) - Solidity vault contract built with Foundry, monorepo structure, CI/CD pipelines, and a simple React frontend.
+  - [ERC-4626 Vault DApp](https://github.com/DVidal0/Vault) - Solidity vault contract built with Foundry, monorepo structure, CI/CD pipelines, and a simple React frontend. Contains my own implementation of a ERC-20 token.
   - [Lottery DApp](https://github.com/DVidal0/Lottery) - Verifiably random lottery (raffle) smart contract built using **Chainlink VRF v2.5** for random number generation and **Chainlink Automation**.
 
 <h2>Cibersecurity Projects:</h2>
