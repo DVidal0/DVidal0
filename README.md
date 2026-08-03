@@ -1,6 +1,10 @@
 <h1>Hi, I'm <a href="https://www.linkedin.com/in/david-v-654025330/">David</a><br/> </h1>
 
-I'm a computer engineer and former cybercrime investigator for the National Police of Spain. Now working as a cyberintelligence analyst for the private sector.
+I'm a computer engineer with a background in security: former cybercrime investigator for the National Police of Spain, now a cyberintelligence analyst in the private sector. I'm currently transitioning into blockchain development — Solidity smart contracts — with the goal of moving into smart contract security and auditing.
+
+<h2>Blockchain / Web3 Projects:</h2>
+<b>Solidity / Foundry</b>
+ERC-4626 Vault DApp — Solidity vault contracts built with Foundry, monorepo structure, CI/CD pipelines, and a simple React frontend
 
 <h2>Cibersecurity Projects:</h2>
 
