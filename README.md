@@ -2,12 +2,13 @@
 
 I'm a computer engineer with a background in security: former cybercrime investigator for the National Police of Spain, now a cyberintelligence analyst in the private sector. I'm currently transitioning into blockchain development — Solidity smart contracts — with the goal of moving into smart contract security and auditing.
 
-<h2>Blockchain / Web3 Projects:</h2>
+<h2>Blockchain Projects:</h2>
 
 - <b>Solidity / Foundry</b>
   - [ERC-4626 Vault Contract](https://github.com/DVidal0/Vault) - Solidity vault contract built with Foundry, monorepo structure, CI/CD pipelines, and a simple React frontend. Contains my own implementation of a ERC-20 token.
   - [Lottery Contract](https://github.com/DVidal0/Lottery) - Verifiably random lottery (raffle) smart contract built using **Chainlink VRF v2.5** for random number generation and **Chainlink Automation**.
   - [Fund Me Contract](https://github.com/DVidal0/FundMe) - A decentralized crowdfunding smart contract, where users can fund the contract with ETH.
+  - [NFT Collections](https://github.com/DVidal0/NFT-Collection) - Two ERC-721 NFT contracts, a simple NFT minted from an off-chain token URI, and a fully on-chain, dynamic NFT whose artwork flips between two states directly in Solidity.
 
 <h2>Cibersecurity Projects:</h2>
 
