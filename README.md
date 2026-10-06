@@ -5,10 +5,11 @@ I'm a computer engineer with a background in security: former cybercrime investi
 <h2>Blockchain Projects:</h2>
 
 - <b>Solidity / Foundry</b>
-  - [ERC-4626 Vault Contract](https://github.com/DVidal0/Vault) - Solidity vault contract built with Foundry, monorepo structure, CI/CD pipelines, and a simple React frontend. Contains my own implementation of a ERC-20 token.
+  - [ERC-4626 Vault Contract](https://github.com/DVidal0/Vault) (In progress)- Solidity vault contract built with Foundry, monorepo structure, CI/CD pipelines, and a simple React frontend. Contains my own implementation of a ERC-20 token.
   - [Lottery Contract](https://github.com/DVidal0/Lottery) - Verifiably random lottery (raffle) smart contract built using **Chainlink VRF v2.5** for random number generation and **Chainlink Automation**.
   - [Fund Me Contract](https://github.com/DVidal0/FundMe) - A decentralized crowdfunding smart contract, where users can fund the contract with ETH.
   - [NFT Collections](https://github.com/DVidal0/NFT-Collection) - Two ERC-721 NFT contracts, a simple NFT minted from an off-chain token URI, and a fully on-chain, dynamic NFT whose artwork flips between two states directly in Solidity.
+  - [Decentralized Stablecoin](https://github.com/DVidal0/Stablecoin) - A minimal, algorithmic, crypto-collateralized stablecoin protocol. The system is designed so that 1 DSC is always meant to be worth $1, backed exclusively by WETH and WBTC collateral.
 
 <h2>Cibersecurity Projects:</h2>
 
