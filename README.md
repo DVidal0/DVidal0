@@ -10,6 +10,7 @@ I'm a computer engineer with a background in security: former cybercrime investi
   - [Fund Me Contract](https://github.com/DVidal0/FundMe) - A decentralized crowdfunding smart contract, where users can fund the contract with ETH.
   - [NFT Collections](https://github.com/DVidal0/NFT-Collection) - Two ERC-721 NFT contracts, a simple NFT minted from an off-chain token URI, and a fully on-chain, dynamic NFT whose artwork flips between two states directly in Solidity.
   - [Decentralized Stablecoin](https://github.com/DVidal0/Stablecoin) - A minimal, algorithmic, crypto-collateralized stablecoin protocol. The system is designed so that 1 DSC is always meant to be worth $1, backed exclusively by WETH and WBTC collateral.
+  - [Merkle Airdrop](https://github.com/DVidal0/Stablecoin) - An ERC-20 airdrop contract, using a Merkle tree to prove eligibility and an EIP-712 signature so a relayer (or anyone) can pay the gas on behalf of the claiming address.
 
 <h2>Cibersecurity Projects:</h2>
 
